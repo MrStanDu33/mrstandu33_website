@@ -1,0 +1,327 @@
+p
+{
+  color:#FFFFFF;
+  font-family: Raleway;
+  font-size: 20px;
+  clear: both;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.divlogo
+{
+  margin-left: 400px;
+}
+
+.logo
+{
+  display: inline-block;
+  vertical-align: text-bottom;
+  margin-left: 50px;
+}
+
+.pseudo
+{
+    font-size: 75px;
+    color: #FFFFFF;
+    text-shadow:  3px 3px 3px black;
+}
+
+.tsname
+{
+  font-family: Anto;
+  color: #E21C21;
+  margin-left: 5px;
+  font-size: 56px;
+}
+
+.tstext
+{
+  color:#FFFFFF;
+  font-family: Raleway;
+  font-size: 20px;
+  margin-left: 5px;
+  margin-right: 150px;
+  text-align: justify;
+
+}
+
+.tslogo
+{
+      display: inline-block;
+      vertical-align:top;
+      float: left;
+      margin-left: 150px;
+}
+
+.inscription
+{
+  float: right;
+}
+
+body
+{
+  background-image: url("background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+  font-size: 20px;
+}
+ul#menu_horizontal li
+{
+  display : inline;
+  padding : 0 0.5em;
+
+}
+
+ul#menu_horizontal
+{
+  text-align: center;
+  list-style-type : none;
+}
+
+.menu_bar li
+{
+  border-radius: 15px;
+  border: 3px solid #FF0000;
+  background-color: rgba(255, 0, 0, 0.60);
+}
+
+body ul li.menu
+{
+ text-decoration: none;
+ font-family: Impact;
+ color: #000000;
+ text-shadow: 1px 1px #AAAAAA; /************************/
+}
+
+.menu_bar li a
+{
+   text-decoration: none;
+   font-family: Impact;
+   color: #000000;
+   text-shadow: 1px 1px #AAAAAA; /************************/
+}
+
+.menu_bar li:hover
+{
+  border-radius: 15px;
+  border: 3px solid #0000FF;
+  background-color: rgba(16, 34, 136, 0.60);
+}
+
+body a
+{
+   text-decoration: none;
+   font-family: Impact;
+   color: #FFFFFF;
+}
+
+.live
+{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+.video
+{
+  margin-left: auto;
+  margin-right: auto;
+  height: 833px;
+  width: 1478px;
+}
+
+.chat
+{
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  height: 480px;
+  width: 1478px;
+  float: right;
+}
+
+h1
+{
+  font-family: Anto;
+  color: #E21C21;
+  margin-left: 5px;
+}
+
+h2
+{
+  font-family: Anto;
+  color: #E21C21;
+  margin-left: 5px;
+}
+
+.fond
+{
+  margin: auto;
+  background-color: rgba(4, 19, 36, 0.95);
+  width: 980px;
+  height: 3275px;
+}
+
+.fondsoutenir
+{
+  margin: auto;
+  background-color: rgba(4, 19, 36, 0.95);
+  width: 980px;
+  height: 300px;
+}
+
+.fondmerejoindre
+{
+  margin: auto;
+  background-color: rgba(4, 19, 36, 0.95);
+  width: 980px;
+  height: 240px;
+}
+
+.fondmenu
+{
+  margin: auto;
+  background-color: rgba(4, 19, 36, 0.95);
+  width: 1600px;
+  height: 1525px;
+}
+
+.fondcontact
+{
+  margin: auto;
+  background-color: rgba(4, 19, 36, 0.95);
+  width: 1600px;
+  height: 1000px;
+}
+
+.fondprevisions
+{
+  margin: auto;
+  background-color: rgba(4, 19, 36, 0.95);
+  width: 1600px;
+  height: 200px;
+}
+
+.p
+{
+  font-family: Raleway;
+  font-size: 20px;
+  margin-left: 0px;
+  margin-left: 5px;
+}
+
+@font-face
+{
+font-family: 'Anto';
+src: url('anton-webfont.eot');
+src: url('anton-webfont.otf') format('truetype'),
+     url('anton-webfont.woff') format('woff'),
+     url('anton-webfont.eot?#iefix') format('embedded-opentype'),
+     url('anton-webfont.svg#QuadrantaBold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face
+{
+font-family: 'Raleway';
+src: url('raleway-black-webfont.eot');
+src: url('raleway-black-webfont.otf') format('truetype'),
+     url('raleway-black-webfont.woff') format('woff'),
+     url('raleway-black-webfont.eot?#iefix') format('embedded-opentype'),
+     url('raleway-black-webfont.svg#QuadrantaBold') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+/**
+{
+  border: 1px solid black;
+}*/
+
+.pres
+{
+  width: 562px;
+  height: 144px;
+  text-align: justify;
+}
+
+.list
+{
+  font-family: Raleway;
+  font-size: 20px;
+}
+
+.LESTREAM
+{
+  font-size: 75px;
+  text-shadow: 1px 1px 3px #FFFFFF;
+  text-align: center;
+}
+
+.list2
+{
+  margin-left: 88px;
+}
+
+.body a:hover
+{
+  border-radius: 7px;
+  border-right: 5px;
+  border-color:#0163E8;
+  border-width: 2px;
+  border-style: solid;
+  background-color: rgba(54, 69, 86, 0.75);
+}
+a.jeu
+{
+    color: #FFFFFF;
+}
+
+a.conf
+{
+  color: #FFFFFF;
+}
+
+.Bib
+{
+  font-family: Raleway;
+  color: #FFFFFF;
+  margin-left: 5px;
+}
+
+h6
+{
+  margin-left: 455px;
+  color: #FFFFFF;
+}
+
+.ts
+{
+  display: inline-block;
+}
+
+.FACEBOOK
+{
+  text-align: center;
+}
+
+h2.FACEBOOK
+{
+  width: 192px;
+  font-size: 50px;
+  margin: auto;
+}
+
+.YOUTUBE
+{
+  text-align: center;
+}
+
+.PREV
+{
+  text-align: center;
+}
